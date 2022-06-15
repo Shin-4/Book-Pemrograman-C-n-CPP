@@ -2,7 +2,7 @@
 
 Programming C and C++ is a book written by Adam Mukharil Bachtiar
 
-<img src="image/CoverBook.jpg" align="left" width="204" height="312" />
+<img src="Image/CoverBook.jpg" align="left" width="204" height="312" />
 
 |           | Information              |
 | --------- | ------------------------ |
